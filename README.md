@@ -1,2 +1,5 @@
-# Scoop Utils
-Plateforme django regroupant plusieurs utilitaires utiles au service de coopération documentaire.  
+# Recouvrement Sudoc
+Module Django permettant via une interface graphique de lancer des Analyses de recouvrement Alma/SUDOC et SUDOC/ALMA.
+Le programme pren entrée une liste de PPN extraits d'Alma ou du SUDOC.
+
+
